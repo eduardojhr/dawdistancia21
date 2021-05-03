@@ -21,7 +21,7 @@
  			 * Utilizaremos el número 20 para realizar la operación.
  			 * 
  			 * @author Eduardo Jesús Hernández Ruiz
-			 * 
+			 * @internal Práctica 5 de DAW
 			 * @version 1.0
  			 * @param integer $numero Número entero
  			 *                           
